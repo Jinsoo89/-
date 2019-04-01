@@ -17,7 +17,7 @@
 
 #### 결과물 사진
 <br>
-![CampusMap, shot1](/images/CampusMap-Shot1.png)
+![CampusMap, shot1](images/CampusMap-Shot1.png)
 <br>
-![CampusMap, shot2](/images/CampusMap-Shot2.png)
+![CampusMap, shot2](images/CampusMap-Shot2.png)
 
