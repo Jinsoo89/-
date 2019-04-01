@@ -1,0 +1,5 @@
+# Verify that the program reacts correctly when user enters m in menu selection
+m
+
+# All of your test scripts should end with q to terminate the program.
+q

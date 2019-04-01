@@ -1,0 +1,13 @@
+# Test FindMinCostPath with two nodes and two edges between them (One way)
+
+# create graph with two nodes, and two edges (One way)
+created graph players
+added node C.Ronaldo to players
+added node W.Rooney to players
+added edge 0.100 from C.Ronaldo to W.Rooney in players
+added edge 1.000 from C.Ronaldo to W.Rooney in players
+
+# find path between two nodes
+path from C.Ronaldo to W.Rooney:
+C.Ronaldo to W.Rooney with weight 0.100
+total cost: 0.100

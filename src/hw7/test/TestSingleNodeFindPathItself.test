@@ -1,0 +1,9 @@
+# Find a path with Dijkstra's algorithm when there is a possible path
+
+# Create graph players, which has a single node
+CreateGraph players
+AddNode players C.Ronaldo
+AddEdge players C.Ronaldo C.Ronaldo 0.0
+
+# Find path between the single node and itself
+FindPath players C.Ronaldo C.Ronaldo

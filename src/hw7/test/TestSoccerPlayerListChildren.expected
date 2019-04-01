@@ -1,0 +1,6 @@
+# Test to display list of children of node on soccer players graph
+
+# Load soccerPlayers.tsv
+loaded graph players
+
+the children of C.Ronaldo in players are: D.Maria(0.333) Isco(1.000) L.Modric(0.500) S.Ramos(1.000) Z.Ibrahimovic(1.000)

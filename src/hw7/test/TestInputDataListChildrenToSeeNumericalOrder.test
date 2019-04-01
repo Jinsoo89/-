@@ -1,0 +1,19 @@
+# Test the list children with data without parsing from exist data
+
+# Create graph
+CreateGraph players
+
+# Add nodes and edges
+AddNode players C.Ronaldo
+AddNode players D.Maria
+AddNode players L.Messi
+AddEdge players C.Ronaldo D.Maria 1
+AddEdge players C.Ronaldo D.Maria 7
+AddEdge players C.Ronaldo L.Messi 4
+AddEdge players C.Ronaldo D.Maria 9
+AddEdge players C.Ronaldo L.Messi 1.5
+AddEdge players C.Ronaldo L.Messi 1.5
+AddEdge players C.Ronaldo L.Messi 0.1
+
+# list children nodes in the graph
+ListChildren players C.Ronaldo

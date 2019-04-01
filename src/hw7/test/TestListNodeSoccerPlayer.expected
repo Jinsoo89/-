@@ -1,0 +1,7 @@
+# Test the parser on a graph that contains several nodes.
+
+# load graph
+loaded graph players
+
+# list nodes in the graph
+players contains: C.Jinsoo C.Ronaldo D.Alves D.Costa D.Maria Griezmann Isco L.Messi L.Modric Neymar S.Ramos Z.Ibrahimovic

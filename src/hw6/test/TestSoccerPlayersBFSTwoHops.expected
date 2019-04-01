@@ -1,0 +1,21 @@
+# Simple test of breadth-first search algorithm.
+# Verifies that it can find a path with two "hops" (edges) when there are no
+# other edges in the graph.
+# Note that in this graph, there is an edge from C.Ronaldo to D.Maria but not
+# vice versa. In your full parser-generated players graph, relationships are
+# bidirectional, meaning an edge from A to B will always be accompanied by an
+# edge from B to A.
+
+created graph players
+added node C.Ronaldo to players
+added node D.Maria to players
+added node L.Messi to players
+added edge M.United from C.Ronaldo to D.Maria in players
+added edge FC.Barcelona from D.Maria to L.Messi in players
+
+path from C.Ronaldo to L.Messi:
+C.Ronaldo to D.Maria via M.United
+D.Maria to L.Messi via FC.Barcelona
+
+path from D.Maria to C.Ronaldo:
+no path found

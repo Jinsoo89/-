@@ -1,0 +1,11 @@
+# Test FindMinCostPath with two nodes and two edges between them (One way)
+
+# create graph with two nodes, and two edges (One way)
+CreateGraph players
+AddNode players C.Ronaldo
+AddNode players W.Rooney
+AddEdge players C.Ronaldo W.Rooney 0.1
+AddEdge players C.Ronaldo W.Rooney 1.0
+
+# find path between two nodes
+FindPath players C.Ronaldo W.Rooney

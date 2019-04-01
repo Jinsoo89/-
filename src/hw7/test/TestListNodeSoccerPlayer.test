@@ -1,0 +1,7 @@
+# Test the parser on a graph that contains several nodes.
+
+# load graph
+LoadGraph players soccerPlayers.tsv
+
+# list nodes in the graph
+ListNodes players

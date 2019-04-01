@@ -1,0 +1,12 @@
+# Sample testing file.
+# Tests that a graph can be created, 
+# a node can be added and a node can be printed out.
+
+# Create a graph
+CreateGraph graph1
+
+# Add a node
+AddNode graph1 n1
+
+# Print a node in the graph
+ListNodes graph1

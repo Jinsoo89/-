@@ -1,0 +1,10 @@
+# Find a path with only one "hop" (edge) using the full SoccerPlayers data set.
+# This test exercises both the parser and BFS algorithm on a simple
+# graph, so it is more of a system test than a true unit test.
+
+# To run this test, you will need to have downloaded the soccerPlayers dataset and
+# place it in src/hw6/data/soccerPlayers.tsv.
+
+LoadGraph players soccerPlayers.tsv
+
+FindPath players L.Messi C.Jinsoo

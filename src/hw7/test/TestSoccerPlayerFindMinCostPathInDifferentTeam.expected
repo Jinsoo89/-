@@ -1,0 +1,11 @@
+# Test to find minimum cost path on soccer players graph
+
+# Load soccerPlayers.tsv
+loaded graph players
+
+# Test findMinCostPath
+path from C.Ronaldo to L.Messi:
+C.Ronaldo to D.Maria with weight 0.333
+D.Maria to Neymar with weight 1.000
+Neymar to L.Messi with weight 1.000
+total cost: 2.333

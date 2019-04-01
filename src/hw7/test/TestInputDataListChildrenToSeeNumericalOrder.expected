@@ -1,0 +1,19 @@
+# Test the list children with data without parsing from exist data
+
+# Create graph
+created graph players
+
+# Add nodes and edges
+added node C.Ronaldo to players
+added node D.Maria to players
+added node L.Messi to players
+added edge 1.000 from C.Ronaldo to D.Maria in players
+added edge 7.000 from C.Ronaldo to D.Maria in players
+added edge 4.000 from C.Ronaldo to L.Messi in players
+added edge 9.000 from C.Ronaldo to D.Maria in players
+added edge 1.500 from C.Ronaldo to L.Messi in players
+added edge 1.500 from C.Ronaldo to L.Messi in players
+added edge 0.100 from C.Ronaldo to L.Messi in players
+
+# list children nodes in the graph
+the children of C.Ronaldo in players are: D.Maria(1.000) D.Maria(7.000) D.Maria(9.000) L.Messi(0.100) L.Messi(1.500) L.Messi(4.000)

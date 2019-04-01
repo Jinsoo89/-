@@ -1,0 +1,5 @@
+# Verify that the program reacts correctly when user enters unknown command in menu selection
+abc
+
+# All of your test scripts should end with q to terminate the program.
+q

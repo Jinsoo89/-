@@ -1,0 +1,7 @@
+# Test Dijkstra's algorithm when there is no data
+
+LoadGraph empty emptyData.tsv
+
+ListNodes empty
+
+FindPath empty n1 n2

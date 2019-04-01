@@ -1,0 +1,5 @@
+# Test to find minimum cost path on staffSuperheroes.tsv
+
+LoadGraph instructors staffSuperheroes.tsv
+
+FindPath instructors Notkin-of-the-Superhuman-Beard Ernst-the-Bicycling-Wizard

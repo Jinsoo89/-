@@ -1,0 +1,10 @@
+# Find a path with Dijkstra's algorithm when there is no possible path
+
+# Create graph players, which has a single node
+created graph players
+added node C.Ronaldo to players
+
+# Find path between the single node and non-exist node
+unknown character Z.Zidane
+unknown character P.Jisung
+unknown character L.Messi

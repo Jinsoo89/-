@@ -1,0 +1,7 @@
+# Test to find minimum cost path on soccer players graph
+
+# Load soccerPlayers.tsv
+LoadGraph players soccerPlayers.tsv
+
+# Test findMinCostPath
+FindPath players C.Ronaldo L.Messi

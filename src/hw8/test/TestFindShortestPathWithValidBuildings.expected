@@ -1,0 +1,41 @@
+Menu:
+	r to find a route
+	b to see a list of all buildings
+	q to quit
+
+Enter an option ('m' to see the menu): # Verify that the program finds and correctly outputs with valid buildings and path
+Abbreviated name of starting building: Abbreviated name of ending building: Path from Paul G. Allen Center for Computer Science & Engineering to Music Building (Northwest Entrance):
+	Walk 18 feet N to (2261, 1707)
+	Walk 68 feet E to (2295, 1701)
+	Walk 25 feet NE to (2305, 1694)
+	Walk 141 feet N to (2302, 1627)
+	Walk 116 feet N to (2307, 1571)
+	Walk 86 feet N to (2322, 1532)
+	Walk 136 feet NE to (2355, 1475)
+	Walk 68 feet NE to (2368, 1446)
+	Walk 84 feet N to (2372, 1404)
+	Walk 144 feet N to (2373, 1335)
+	Walk 69 feet N to (2374, 1302)
+	Walk 33 feet NW to (2364, 1287)
+	Walk 35 feet N to (2362, 1270)
+	Walk 18 feet NE to (2367, 1262)
+	Walk 88 feet N to (2358, 1221)
+	Walk 22 feet N to (2356, 1210)
+	Walk 123 feet N to (2341, 1154)
+	Walk 81 feet N to (2345, 1115)
+	Walk 51 feet N to (2353, 1091)
+	Walk 46 feet NW to (2338, 1075)
+	Walk 70 feet NW to (2315, 1052)
+	Walk 36 feet NW to (2301, 1040)
+	Walk 29 feet NW to (2293, 1031)
+	Walk 30 feet W to (2278, 1027)
+	Walk 47 feet NW to (2262, 1011)
+	Walk 93 feet N to (2263, 967)
+	Walk 60 feet N to (2263, 938)
+	Walk 91 feet W to (2219, 945)
+	Walk 19 feet NW to (2212, 939)
+	Walk 42 feet SW to (2203, 957)
+Total distance: 1970 feet
+
+Enter an option ('m' to see the menu): 
+# All of your test scripts should end with q to terminate the program.

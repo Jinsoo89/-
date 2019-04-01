@@ -1,0 +1,10 @@
+# Find a path with Dijkstra's algorithm when there is a possible path
+
+# Create graph players, which has a single node
+created graph players
+added node C.Ronaldo to players
+added edge 0.000 from C.Ronaldo to C.Ronaldo in players 
+
+# Find path between the single node and itself
+path from C.Ronaldo to C.Ronaldo:
+total cost: 0.000

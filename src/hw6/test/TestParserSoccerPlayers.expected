@@ -1,0 +1,5 @@
+# Test the parser on a graph that contains several nodes.
+
+loaded graph players
+
+the children of C.Ronaldo in players are: D.Maria(M.United) D.Maria(R.Madrid) Isco(R.Madrid) L.Modric(R.Madrid) S.Ramos(R.Madrid) Z.Ibrahimovic(M.United)

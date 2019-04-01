@@ -1,0 +1,8 @@
+# Find a path with Dijkstra's algorithm with unknown character 'from'
+
+# Create graph players, which has a single node
+CreateGraph players
+AddNode players C.Ronaldo
+
+# Find path between unknown node and known single node
+FindPath players L.Messi C.Ronaldo

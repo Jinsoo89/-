@@ -1,0 +1,6 @@
+# Test to display list of children of node on soccer players graph
+
+# Load soccerPlayers.tsv
+LoadGraph players soccerPlayers.tsv
+
+ListChildren players C.Ronaldo

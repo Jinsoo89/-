@@ -1,0 +1,7 @@
+# Test the parser and BFS algorithm on empty data
+
+LoadGraph empty emptyData.tsv
+
+ListNodes empty
+
+FindPath empty n1 n2

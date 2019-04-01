@@ -1,0 +1,8 @@
+# Verify that the program finds and correctly outputs
+# "Unknown building: " + name of unknown building
+r
+CSE
+WORLD
+
+# All of your test scripts should end with q to terminate the program.
+q

@@ -1,0 +1,7 @@
+# Test to find minimum cost path on staffSuperheroes.tsv
+
+loaded graph instructors
+
+path from Notkin-of-the-Superhuman-Beard to Ernst-the-Bicycling-Wizard:
+Notkin-of-the-Superhuman-Beard to Ernst-the-Bicycling-Wizard with weight 0.500
+total cost: 0.500
