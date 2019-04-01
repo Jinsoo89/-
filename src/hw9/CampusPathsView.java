@@ -125,7 +125,7 @@ public class CampusPathsView extends JPanel {
                 image.getHeight(), null);
 
         if (this.paths != null) {
-            g2.setColor(Color.blue);
+            g2.setColor(Color.RED);
           
             double x = Math.round(coordinates.get(0).getX() * rat_width);
             double y = Math.round(coordinates.get(0).getY() * rat_height);
@@ -146,15 +146,15 @@ public class CampusPathsView extends JPanel {
                 curr_Y = next_Y;
             }
             
-            g2.setFont(new Font("TimesRoman", Font.PLAIN, 15));
+            g2.setFont(new Font("TimesRoman", Font.PLAIN, 20));
             // draw Red Oval on starting point of path
             
-            g2.setColor(Color.RED);
+            g2.setColor(Color.BLUE);
             g2.fillOval((int) x - 4, (int) y - 4, 8, 8);
             g2.drawString(buildnames.get(0), (int) x - 8, (int) y - 8);
 
             // draw Green Oval on end point of path
-            g2.setColor(Color.GREEN);
+            g2.setColor(Color.BLUE);
             g2.fillOval((int) curr_X - 4, (int) curr_Y - 4, 8, 8);
             g2.drawString(buildnames.get(1), (int) curr_X - 8, (int) curr_Y - 8);
         }
