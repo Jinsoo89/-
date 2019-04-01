@@ -1,8 +1,7 @@
 # CampusMap
-<br>
 
 ### CampusMap, '소프트웨어 디자인 & 구현' 수업의 학기 단위 프로젝트입니다.
-<br>
+
 #### 구성 
 <br>
 
@@ -13,11 +12,8 @@
 5. Weighted 엣지들과 Dijkstra 알고리즘을 구현해 두 캐릭터간의 최단거리를 공동으로 출연한 만화책 수에 반비례하여 표현.
 6. 학교 내 건물들과 도보 데이터를 parsing 하고, MVC(Model-View-Controller) 패턴에 맞게 모델, 뷰, 컨트롤러를 구현함
 7. 6번에 구현된 내용들을 Java GUI를 사용해 표현하는 프로그램을 사용자가 사용가능하도록 구현.
-<br>
 
 #### 결과물 사진
-<br>
 ![CampusMap, shot1](images/CampusMap-Shot1.png)
-<br>
 ![CampusMap, shot2](images/CampusMap-Shot2.png)
 
