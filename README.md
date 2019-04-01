@@ -14,6 +14,9 @@
 7. 6번에 구현된 내용들을 Java GUI를 사용해 표현하는 프로그램을 사용자가 사용가능하도록 구현.
 
 #### 결과물 사진
-![CampusMap, shot1](images/CampusMap-Shot1.png)
+##### 초기화면
 ![CampusMap, shot2](images/CampusMap-Shot2.png)
+##### 건물 이름과 최단거리 출력
+![CampusMap, shot1](images/CampusMap-Shot1.png)
+
 
